@@ -1,0 +1,26 @@
+{
+    "id": "AE8B562C",
+    "path": "~/RStudio/Projects/Testing/gogo/aoao/app.R",
+    "project_path": "aoao/app.R",
+    "type": "r_source",
+    "hash": "3516657941",
+    "contents": "",
+    "dirty": false,
+    "created": 1600964139595.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "8,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1600964139,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1600964139,
+    "read_only": false,
+    "read_only_alternatives": []
+}

@@ -1,0 +1,4 @@
+1[FALSE]
+1[TRUE]
+"A"[FALSE]
+"A"[TRUE]

@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{=html}
+A bit
+<TABLE
+```
+Between
+
+```{=html}
+<H1></H1>
+```

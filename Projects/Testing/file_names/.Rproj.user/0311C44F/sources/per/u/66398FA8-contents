@@ -1,0 +1,16 @@
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+library(purrr)
+
+data("diamonds")
+
+test <- 
+    diamonds %>%
+    group_by(as.factor(depth)) %>%
+    nest() %>%
+    mutate(
+        lm_obj =  map(data, ~lm(price ~ carat, data = .x))
+    )
+
+test

@@ -1,0 +1,23 @@
+{
+    "id": "9CA263AE",
+    "path": null,
+    "project_path": null,
+    "type": "r_code_browser",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1603817486863.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "context": ".GlobalEnv:::test"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 140479790317584,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1603817486863,
+    "read_only": false,
+    "read_only_alternatives": []
+}

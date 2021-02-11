@@ -1,0 +1,15 @@
+x_dat <- c(1,2,3,4,5)
+y_dat <- c(2,1,4,3,6)
+
+plot(x=x_dat,
+     y=y_dat)
+
+abline(a=0,b=1)
+
+my_grid <- seq(0,7, by=1)
+
+abline(h=my_grid, 
+       lty="solid", 
+       col="grey")
+
+barplot(x_dat)

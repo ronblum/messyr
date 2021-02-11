@@ -1,0 +1,30 @@
+{
+    "id": "885F2290",
+    "path": "~/RStudio/Projects/Testing/bobo.Rmd",
+    "project_path": null,
+    "type": "r_markdown",
+    "hash": "1625413419",
+    "contents": "",
+    "dirty": false,
+    "created": 1608234462196.0,
+    "source_on_save": false,
+    "relative_order": 34,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "28,40",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608246245,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608246245592,
+    "read_only": false,
+    "read_only_alternatives": []
+}

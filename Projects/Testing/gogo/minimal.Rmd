@@ -1,0 +1,13 @@
+```{=html}
+HTML block 1
+<table>
+```
+
+```{r}
+Some R code Between blocks
+```
+
+```{=html}
+HTML block 2
+</table>
+```

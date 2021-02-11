@@ -1,0 +1,5 @@
+con <- DBI::dbConnect(noctua::athena(), s3_staging_dir = "************")
+
+tt <- mtcars
+View(tt)
+tt <- dplyr::tbl(con, dbplyr::in_schema("database", "bft"))

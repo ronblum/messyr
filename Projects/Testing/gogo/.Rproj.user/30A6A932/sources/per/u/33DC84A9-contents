@@ -1,0 +1,29 @@
+---
+title: "scroll reprex"
+output: html_notebook
+---
+
+```{r setup}
+library(dplyr)   # pipes
+library(ggplot2) # plotting
+library(gt)      # tables
+```
+
+## Get Data
+```{r}
+mtcars
+```
+
+```{r}
+dat <- mtcars %>% count(cyl)
+```
+
+```{r}
+gt(dat)
+```
+
+```{r}
+mtcars %>% ggplot(aes(cyl, disp)) + 
+  geom_point()
+```
+

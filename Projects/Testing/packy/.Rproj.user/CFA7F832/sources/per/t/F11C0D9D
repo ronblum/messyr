@@ -1,0 +1,31 @@
+{
+    "id": "F11C0D9D",
+    "path": "~/RStudio/Projects/Testing/packy/gogo.Rmd",
+    "project_path": "gogo.Rmd",
+    "type": "r_markdown",
+    "hash": "2963163850",
+    "contents": "",
+    "dirty": false,
+    "created": 1607619965474.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "tempName": "Untitled4",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "37,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "87:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608246245,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608246245565,
+    "read_only": false,
+    "read_only_alternatives": []
+}

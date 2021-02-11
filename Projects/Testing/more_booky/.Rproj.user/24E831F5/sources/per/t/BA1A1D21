@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612478932436.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4284927752",
+    "id" : "BA1A1D21",
+    "lastKnownWriteTime" : 1612478995,
+    "last_content_update" : 1612478995200,
+    "path" : "~/RStudio/Projects/Testing/more_booky/style.css",
+    "project_path" : "style.css",
+    "properties" : {
+        "cursorPosition" : "0,1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "css"
+}

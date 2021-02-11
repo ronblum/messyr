@@ -1,0 +1,9 @@
+> 1[FALSE]
+numeric(0)
+> 1[TRUE]
+[1] 1
+> "A"[FALSE]
+character(0)
+> "A"[TRUE]
+[1] "A"
+> 

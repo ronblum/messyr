@@ -1,0 +1,66 @@
+---
+references:
+- id: effects1999
+  DOI: 10.3133/93888
+  is-referenced-by-count: 0
+  issued: 1999
+  member: 1689
+  prefix: 10.3133
+  providerKey: crossref
+  publisher: US Geological Survey
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  title: "Effects of management practices on grassland birds: Bobolink"
+  type: report
+  URL: "http://dx.doi.org/10.3133/93888"
+- id: allen1874
+  author:
+  - family: Allen
+    given: Elizabeth Akers
+  container-title: The Aldine
+  DOI: 10.2307/20636848
+  is-referenced-by-count: 0
+  ISSN: 2151-4186
+  issue: 9
+  issued: 1874
+  language: en
+  member: 1121
+  page: 172
+  prefix: 10.2307
+  providerKey: crossref
+  publisher: JSTOR
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  title: The Bobolink
+  type: article-journal
+  URL: "http://dx.doi.org/10.2307/20636848"
+  volume: 7
+- id: allen1874
+  author:
+  - family: Allen
+    given: Elizabeth Akers
+  container-title: The Aldine
+  DOI: 10.2307/20636848
+  is-referenced-by-count: 0
+  ISSN: 2151-4186
+  issue: 9
+  issued: 1874
+  language: en
+  member: 1121
+  page: 172
+  prefix: 10.2307
+  providerKey: crossref
+  publisher: JSTOR
+  reference-count: 0
+  references-count: 0
+  score: 1
+  source: Crossref
+  title: The Bobolink
+  type: article-journal
+  URL: "http://dx.doi.org/10.2307/20636848"
+  volume: 7
+...

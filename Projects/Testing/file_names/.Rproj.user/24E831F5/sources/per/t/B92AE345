@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1612886372782.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B92AE345",
+    "lastKnownWriteTime" : 2314885435790196736,
+    "last_content_update" : 1612886372782,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "B72A56B8",
+        "caption" : "bobo",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=bobo&cache_key=B72A56B8",
+        "displayedObservations" : 0,
+        "environment" : "",
+        "expression" : "bobo",
+        "object" : "bobo",
+        "preview" : 0,
+        "totalObservations" : 0,
+        "variables" : 0
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

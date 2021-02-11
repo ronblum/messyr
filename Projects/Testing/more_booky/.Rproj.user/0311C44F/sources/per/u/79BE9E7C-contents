@@ -1,0 +1,15 @@
+library(bigmemory)
+setClass("testClass1",
+         slots = c(md5 = "character"),
+         contains = "big.matrix")
+
+setClass("testClass2",
+         slots = c(md5 = "character"),
+         prototype = c(md5 = "1"),
+         contains = "big.matrix")
+
+t1 <- as.big.matrix(matrix(1:100, nrow = 10))
+
+t2 <- new("testClass1", address = t1@address, md5 = digest::digest(matrix(1:100, nrow = 10)))
+
+t3 <- new("testClass2", address = t1@address, md5 = digest::digest(matrix(1:100, nrow = 10)))

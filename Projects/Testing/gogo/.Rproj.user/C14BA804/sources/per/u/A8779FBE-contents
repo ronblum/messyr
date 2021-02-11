@@ -1,0 +1,8 @@
+badfn <- function() {
+  obj <- 1
+  for (attr in letters)
+    if (attr == "z") 
+      obj <- 2
+    obj
+}
+📝✏️

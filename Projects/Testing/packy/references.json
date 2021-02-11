@@ -1,0 +1,141 @@
+[
+    {
+        "author": [
+            {
+                "family": "Jr",
+                "given": "Nobody"
+            }
+        ],
+        "id": "jr2006a",
+        "issued": {
+            "date-parts": [
+                [
+                    2006
+                ]
+            ]
+        },
+        "key": "993FSQ83",
+        "libraryid": "1",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "title": "My Article",
+        "type": "book"
+    },
+    {
+        "author": [
+            {
+                "family": "Jr",
+                "given": "Nobody"
+            }
+        ],
+        "id": "jr2006",
+        "issued": {
+            "date-parts": [
+                [
+                    2006
+                ]
+            ]
+        },
+        "key": "993FSQ83",
+        "libraryid": "1",
+        "providerkey": "2509FBBE-5BB0-44C4-B119-6083A81ED673",
+        "title": "My Article",
+        "type": "book"
+    },
+    {
+        "DOI": "10.3133/93888",
+        "URL": "http://dx.doi.org/10.3133/93888",
+        "id": "effects1999",
+        "is-referenced-by-count": "0",
+        "issued": {
+            "date-parts": [
+                [
+                    1999
+                ]
+            ]
+        },
+        "member": "1689",
+        "prefix": "10.3133",
+        "providerkey": "crossref",
+        "publisher": "US Geological Survey",
+        "reference-count": "0",
+        "references-count": "0",
+        "score": "1",
+        "source": "Crossref",
+        "title": "Effects of management practices on grassland birds: Bobolink",
+        "type": "report"
+    },
+    {
+        "DOI": "10.5061/DRYAD.9TN73/2",
+        "URL": "http://datadryad.org/resource/doi:10.5061/dryad.9tn73/2",
+        "author": [
+            {
+                "family": "Miguet",
+                "given": "Paul"
+            },
+            {
+                "family": "Fahrig",
+                "given": "Lenore"
+            },
+            {
+                "family": "Lavigne",
+                "given": "Claire"
+            }
+        ],
+        "id": "Miguet2017",
+        "issued": {
+            "date-parts": [
+                [
+                    2017
+                ]
+            ]
+        },
+        "providerkey": "datacite",
+        "publisher": "Dryad Digital Repository",
+        "title": "dataset 2",
+        "type": "dataset"
+    },
+    {
+        "DOI": "10.1037/a0040251",
+        "ISSN": "1935-990X",
+        "URL": "http://dx.doi.org/10.1037/a0040251",
+        "author": [
+            {
+                "family": "Gatz",
+                "given": "Margaret"
+            },
+            {
+                "family": "Smyer",
+                "given": "Michael A."
+            },
+            {
+                "family": "DiGilio",
+                "given": "Deborah A."
+            }
+        ],
+        "container-title": "American Psychologist",
+        "container-title-short": "American Psychologist",
+        "id": "gatz2016",
+        "is-referenced-by-count": "7",
+        "issue": "4",
+        "issued": {
+            "date-parts": [
+                [
+                    2016
+                ]
+            ]
+        },
+        "language": "en",
+        "member": "15",
+        "page": "257-267",
+        "prefix": "10.1037",
+        "providerkey": "doi",
+        "publisher": "American Psychological Association (APA)",
+        "reference-count": "0",
+        "references-count": "0",
+        "score": "1",
+        "source": "Crossref",
+        "title": "Psychology’s contribution to the well-being of older americans.",
+        "type": "article-journal",
+        "volume": "71"
+    }
+]

@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+Before HTML 1
+
+```{=html}
+HTML 1
+```
+```{=html}
+HTML 2
+```
+After HTML 2

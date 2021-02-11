@@ -1,0 +1,17 @@
+---
+title: "R Notebook"
+output: html_document
+---
+
+<TABLE>
+
+Between
+
+```{=html}
+<table>
+<tr>
+<td>*one*</td>
+<td>[a link](http://google.com)</td>
+</tr>
+</table>
+```

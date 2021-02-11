@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1601653908799.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1181735869",
+    "id" : "D513046D",
+    "lastKnownWriteTime" : 1601653919,
+    "last_content_update" : 1601653919641,
+    "path" : "~/RStudio/Projects/Testing/issue_renv/Untitled.txt",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "0,50",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

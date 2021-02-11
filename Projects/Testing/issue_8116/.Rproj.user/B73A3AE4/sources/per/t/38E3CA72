@@ -1,0 +1,25 @@
+{
+    "id": "38E3CA72",
+    "path": "~/RStudio/Projects/Testing/issue_8116/Untitled.Rmd",
+    "project_path": "Untitled.Rmd",
+    "type": "r_markdown",
+    "hash": "34423450",
+    "contents": "",
+    "dirty": false,
+    "created": 1603201446384.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "chunk_output_type": "console",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1603201065,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1603201065,
+    "read_only": false,
+    "read_only_alternatives": []
+}

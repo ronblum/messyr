@@ -1,0 +1,31 @@
+{
+    "id": "918DE477",
+    "path": "~/RStudio/Projects/Testing/packy/Untitled.Rmd",
+    "project_path": "Untitled.Rmd",
+    "type": "r_markdown",
+    "hash": "287522349",
+    "contents": "",
+    "dirty": false,
+    "created": 1608044071305.0,
+    "source_on_save": false,
+    "relative_order": 22,
+    "properties": {
+        "tempName": "Untitled9",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "2:0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608216557,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608047321005,
+    "read_only": false,
+    "read_only_alternatives": []
+}

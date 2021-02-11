@@ -1,0 +1,5 @@
+book_filename: "booky_14869"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

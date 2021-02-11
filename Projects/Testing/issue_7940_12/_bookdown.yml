@@ -1,0 +1,5 @@
+book_filename: "issue_7940_12"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

@@ -1,0 +1,32 @@
+{
+    "id": "663CBD5F",
+    "path": "~/RStudio/Projects/Testing/issue_8116/vovovovo.Rmd",
+    "project_path": "vovovovo.Rmd",
+    "type": "r_markdown",
+    "hash": "2215484876",
+    "contents": "",
+    "dirty": false,
+    "created": 1603906832900.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "chunk_output_type": "inline",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,73",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualModeLocation": "2:0",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1603983079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1603983079910,
+    "read_only": false,
+    "read_only_alternatives": []
+}
